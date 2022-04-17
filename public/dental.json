@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Full Denture, Acrylic Teeth ",
+        "price": "300",
+        "description": "Missing teeth are replaced permanently with a titanium screw that acts as a tooth root and is embedded into the jaw bone with a crown attached.",
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental1_annxfa.jpg"
+    },
+    {
+        "id": 2,
+        "name": "Panoramic X-Rays ",
+        "price": "100",
+        "description": "Crowns, bridges, veneers, teeth whitening, dental restorations and teeth whitening",
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208525/Dental-Care/dental4_zwvgev.jpg"
+    },
+    {
+        "id": 3,
+        "name": "Root canal (molar) ",
+        "price": "350",
+        "description": "Root canal treatment is a procedure that involves removing the tooth root and placing a crown on the tooth. The crown is then removed and the tooth is placed back in place.",
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208525/Dental-Care/dental3_hhabhv.jpg"
+    },
+    {
+        "id": 4,
+        "name": "Orthognatic Surgery ",
+        "price": "280",
+        "description": "Orthognatic surgery is a procedure that involves removing the tooth root and placing a crown on the tooth. The crown is then removed and the tooth is placed back in place.",
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208525/Dental-Care/dental7_nb2cj9.jpg"
+    },
+    {
+        "id": 5,
+        "name": "Space maintainer ",
+        "price": "450",
+        "description": "Space maintainer is a procedure that involves removing the tooth root and placing a crown on the tooth. The crown is then removed and the tooth is placed back in place.",
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental9_zv6qwx.jpg"
+    },
+    {
+        "id": 6,
+        "name": "Sinus lifting ",
+        "price": "500",
+        "description": "Sinus lifting is a procedure that involves removing the tooth root and placing a crown on the tooth. The crown is then removed and the tooth is placed back in place.",
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental6_he0gqy.jpg"
+    },
+    {
+        "id": 7,
+        "name": "Metal Braces ",
+        "price": "100",
+        "description": "Metal braces are a type of braces that are made of metal. They are used to support the teeth and provide support to the jaw. They are also used to support the jaw when the teeth are missing.",
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental5_wsetst.jpg"
+    },
+    {
+        "id": 8,
+        "name": "Root canal (premolar) ",
+        "price": "400",
+        "description": "Root canal treatment is a procedure that involves removing the tooth root and placing a crown on the tooth. The crown is then removed and the tooth is placed back in place.",
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental2_wbtkel.jpg"
+    },
+    {
+        "id": 9,
+        "name": "Prophylaxis ",
+        "price": "200",
+        "description": "Prophylaxis is a treatment that is used to prevent infections and treat infections. It is usually given to a patient who has had a previous infection.",
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental10_vvdibs.jpg"
+    },
+    {
+        "id": 10,
+        "name": "Temporary plate ",
+        "price": "300",
+        "description": "Temporary plate is a type of braces that are made of metal. They are used to support the teeth and provide support to the jaw. They are also used to support the jaw when the teeth are missing.",
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental8_xeyinw.jpg"
+    }
+]
