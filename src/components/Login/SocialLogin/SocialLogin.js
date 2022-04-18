@@ -8,7 +8,7 @@ import auth from '../../../firebase.init';
 const SocialLogin = () => {
 
     const [signInWithGoogle, user, loading, error] = useSignInWithGoogle(auth);
-    const [signInWithGithub, user1, loading1, error1] = useSignInWithGithub(auth);
+    const [ user1, loading1, error1] = useSignInWithGithub(auth);
     const navigate = useNavigate();
     let errorElement;
 
@@ -54,15 +54,7 @@ const SocialLogin = () => {
         
           
             
-            <div>
-                <button 
-                 onClick={() => signInWithGithub()}
-                className='btn btn-success w-50 d-block mx-auto my-2'>
-                    <i class="fa-brands fa-github"></i>
-                    <FontAwesomeIcon style={{ width: '30px' }} icon="fa-brands fa-github" />
-                    <span className='px-2'> Github Sign In</span>
-                </button>
-            </div>
+        
           
         </div>
     );

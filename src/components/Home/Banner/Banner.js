@@ -24,8 +24,11 @@ const Banner = () => {
                         alt="First slide"
                     />
                     <Carousel.Caption>
-                        <h3>First slide label</h3>
-                        <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
+                        <h3>What is the adjective of dentist?</h3>
+                        <p>
+                        Dentistlike, Resembling or characteristic of a dentist.
+                        The dental clinic is a place where a dentist performs dental procedures and treatments on patients. Dental clinics can be found in hospitals, schools, government offices, and other health-related establishments
+                        </p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -37,8 +40,10 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Second slide label</h3>
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing elit.</p>
+                        <h3>What is a mouth specialist called?</h3>
+                        <p>
+                        An oral and maxillofacial surgeon is the oral health care provider who performs many types of surgical procedures in and about the entire face, mouth, and jaw area. 
+                        </p>
                     </Carousel.Caption>
                 </Carousel.Item>
                 <Carousel.Item>
@@ -50,9 +55,9 @@ const Banner = () => {
                     />
 
                     <Carousel.Caption>
-                        <h3>Third slide label</h3>
+                        <h3>Can a dentist refer you to a specialist?</h3>
                         <p>
-                            Praesent commodo cursus magna, vel scelerisque nisl consectetur.
+                        Although, generally it would be a general dentist that would 'refer' a patient to a specialist, it is not uncommon that patients will sometimes locate a specialist themselves and approach him or her directly.
                         </p>
                     </Carousel.Caption>
                 </Carousel.Item>
