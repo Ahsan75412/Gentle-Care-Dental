@@ -15,8 +15,8 @@ const Service = ({ service }) => {
                 <div className="card-body">
                     <h5 className="card-title">{name}</h5>
                     <p className="card-text">{description}</p>
-                    <p className="card-text">${price}</p>
-                    <button onClick={() => nevigateToServiceDetail(id)}  className='btn btn-primary'>Visit</button>
+                    <h5 className="card-text">Price: ${price}</h5>
+                    <button onClick={() => nevigateToServiceDetail(id)}  className='btn  btn-outline-success'>Take {id}</button>
                 </div>
             </div>
         </div>

@@ -1,5 +1,5 @@
 import React from 'react';
-import  { useEffect, useState } from 'react';
+import { useEffect, useState } from 'react';
 import Expert from '../Expert/Expert';
 
 const Experts = () => {
@@ -12,15 +12,22 @@ const Experts = () => {
     }, [])
 
     return (
-        <div  id="experts" className='container'>
-            {
-                experts.map(expert => <Expert
-                    key={expert.id}
-                    expert={expert}      
-                ></Expert>)
-            }
+        <div id="review" className='container'>
             
-        </div>
+                <h1 className='services-title mt-5'>Reviews</h1>
+                <div className="row">
+                    {
+                        experts.map(expert => <Expert
+                            key={expert.id}
+                            expert={expert}
+                        ></Expert>)
+                    }
+
+                </div>
+
+
+            </div>
+        
     );
 };
 

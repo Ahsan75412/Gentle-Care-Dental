@@ -1,39 +1,41 @@
 [
     {
         "id": 1,
-        "name": "Dr. John Kattwinkel ",
+        "name": "John Kattwinkel ",
         "description": "Teeth whitening experts from USA", 
-        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650279799/expart-doctor/expart3_z7paba.png"
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650292442/men/men4_h10qhh.jpg",
+        "rate": " 5 Star "
     },
     {
         "id": 2,
-        "name": " Dr. Robert J.",
+        "name": "  Robert JR.",
         "description": "Crowns, bridges, veneers, teeth whitening, dental restorations and teeth whitening",
-        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650279798/expart-doctor/expart5_gdsc26.png"
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650292442/men/men2_dfekuh.jpg",
+        "rate": " 5 Star "
     },
     {
         "id": 3,
-        "name": "Dr. Mary E. Jensen ",
+        "name": "Mary Jensen ",
         "description": "Removing teeth and crowns",
-        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650279798/expart-doctor/expart1_hxo1cy.png"
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650292443/men/men3_wi4bqn.jpg",
+        "rate": " 5 Star "
     },
     {
         "id": 4,
-        "name": "Dr. Raymond F. Morgan",
+        "name": " Raymond Morgan",
         "description": "Orthodontics medical specialty ",
-        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650279798/expart-doctor/expart2_tghxvc.jpg"
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650292443/men/men1_ctxnxs.jpg",
+        "rate": " 5 Star "
+        
     },
     {
         "id": 5,
-        "name": "Dr. Christopher  ",
+        "name": "Christopher",
         "description": "American expart in root canal",
-        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650279798/expart-doctor/expart6_axeh4w.jpg"
-    },
-    {
-        "id": 6,
-        "name": "Dr. Bruce Bateman ",
-        "description": "Dental, Oral and Maxillofacial Surgery",
-        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650279798/expart-doctor/expart4_uzbmdr.jpg"
+        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650292443/men/men5_knfbfg.png",
+
+        "rate": " 5 Star "
     }
+
     
 ]

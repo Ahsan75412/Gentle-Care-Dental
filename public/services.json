@@ -40,33 +40,6 @@
         "price": "500",
         "description": "Sinus lifting is a procedure that involves removing the tooth root and placing a crown on the tooth. The crown is then removed and the tooth is placed back in place.",
         "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental6_he0gqy.jpg"
-    },
-    {
-        "id": 7,
-        "name": "Metal Braces ",
-        "price": "100",
-        "description": "Metal braces are a type of braces that are made of metal. They are used to support the teeth and provide support to the jaw. They are also used to support the jaw when the teeth are missing.",
-        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental5_wsetst.jpg"
-    },
-    {
-        "id": 8,
-        "name": "Root canal (premolar) ",
-        "price": "400",
-        "description": "Root canal treatment is a procedure that involves removing the tooth root and placing a crown on the tooth. The crown is then removed and the tooth is placed back in place.",
-        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental2_wbtkel.jpg"
-    },
-    {
-        "id": 9,
-        "name": "Prophylaxis ",
-        "price": "200",
-        "description": "Prophylaxis is a treatment that is used to prevent infections and treat infections. It is usually given to a patient who has had a previous infection.",
-        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental10_vvdibs.jpg"
-    },
-    {
-        "id": 10,
-        "name": "Temporary plate ",
-        "price": "300",
-        "description": "Temporary plate is a type of braces that are made of metal. They are used to support the teeth and provide support to the jaw. They are also used to support the jaw when the teeth are missing.",
-        "img": "https://res.cloudinary.com/dg5xbio2w/image/upload/v1650208524/Dental-Care/dental8_xeyinw.jpg"
     }
+  
 ]
