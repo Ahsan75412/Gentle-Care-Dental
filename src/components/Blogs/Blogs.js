@@ -5,7 +5,7 @@ const Blogs = () => {
     return (
         <div>
             <div class="card card-style mt-5" id='blogs'>
-    
+
                 <div class="card-body">
                     <h5 class="card-title">
                         Difference between authentication and authorization:</h5>
@@ -16,7 +16,7 @@ const Blogs = () => {
                         Simply put, authentication is the process of verifying who someone is, whereas authorization is the process of verifying what specific applications, files, and data a user has access to.
                     </p>
 
-                    <a href="/home" className="btn btn-success">Home</a>
+
                 </div>
             </div>
 
@@ -30,12 +30,12 @@ const Blogs = () => {
                         Why are you using firebase? What other options do you have to implement authentication?</h5>
 
                     <p class="card-text"> It gives me real time sync and firebase is easy to setup. authentication using email and password, phone number, google, facebook, apple id and many more. it collects user information and store in the firebase database. it also have the cloud messaging service.
-                    <br />
-                    Usually, authentication using email and password is common, bt we can also use cards, retina scans, voice recognition, face recognition, fingerprint etc
+                        <br />
+                        Usually, authentication using email and password is common, bt we can also use cards, retina scans, voice recognition, face recognition, fingerprint etc
 
                     </p>
 
-                    <a href="/home" className="btn btn-success">Home</a>
+
                 </div>
             </div>
 
@@ -43,18 +43,16 @@ const Blogs = () => {
 
 
 
-
-
             <div class="card mt-5 card-style" id='blogs'>
-               
+
                 <div class="card-body">
                     <h5 class="card-title">
                         What other services does firebase provide other than authentication?</h5>
 
                     <p class="card-text">There are many services that firebase provides us:
-                    <br />
+                        <br />
 
-                    <li>1. cloud firestone</li>
+                        <li>1. cloud firestone</li>
                         <li>2. cloud functions</li>
                         <li>3. Hosting</li>
                         <li>4. cloud storage</li>
@@ -63,13 +61,16 @@ const Blogs = () => {
                         <li>7. cloud messaging</li>
                         <li> 8. Dynamic links</li>
                         <li>9. Remote config</li>
-                        
+
 
                     </p>
 
-                    <a href="/home" className="btn btn-success">Home</a>
+
                 </div>
+
             </div>
+
+            <a href="/home" className="btn btn-lg btn-success mt-3">Go Home</a>
 
         </div>
     );

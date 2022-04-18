@@ -1,4 +1,4 @@
-import { FontAwesomeIcon } from '@fortawesome/react-fontawesome';
+
 import { useSignInWithGithub, useSignInWithGoogle } from 'react-firebase-hooks/auth';
 import React from 'react';
 import Loading from '../../Sheared-Component/Loading/Loading';
@@ -8,7 +8,7 @@ import auth from '../../../firebase.init';
 const SocialLogin = () => {
 
     const [signInWithGoogle, user, loading, error] = useSignInWithGoogle(auth);
-    const [ user1, loading1, error1] = useSignInWithGithub(auth);
+    const [signInWithGithub , user1, loading1, error1] = useSignInWithGithub(auth);
     const navigate = useNavigate();
     let errorElement;
 
@@ -46,7 +46,6 @@ const SocialLogin = () => {
                     onClick={() => signInWithGoogle()}
 
                     className='btn btn-success w-50 d-block mx-auto my-2'>
-                    {/* <img style={{ width: '30px' }} src={google} alt="" /> */}
                     <i class="fa-brands fa-google"></i>
                     <span className='px-2'> Google Sign In</span>
                 </button>

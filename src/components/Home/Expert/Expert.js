@@ -11,7 +11,17 @@ const Expert = ({ expert }) => {
                     <div className="card-body">
                         <h5 className="card-title">{name}</h5>
                         <p className="card-text">{description}</p>
-                        <p className="card-text">Rating:{rate}</p>
+                        <p className="card-text"> 
+
+                            Rating:{rate}
+                        
+                            <i class="fa-solid fa-star style"></i>
+                            <i class="fa-solid fa-star style"></i>
+                            <i class="fa-solid fa-star style"></i>
+                            <i class="fa-solid fa-star style"></i>
+                            <i class="fa-solid fa-star-half-stroke style"></i>
+
+                            </p>
                         
                     </div>
                 </div>
