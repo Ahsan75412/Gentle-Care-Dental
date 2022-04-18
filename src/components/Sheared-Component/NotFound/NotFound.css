@@ -1,0 +1,22 @@
+.not-found {
+    margin-top: 60px;
+    height: 100%;
+}
+
+.not-found-title {
+    font-size: 100px;
+    color: rgb(0, 255, 132);
+}
+
+.btn-regular {
+    color: #fff;
+    font-size: 20px;
+    font-weight: 500;
+    border-radius: 5px;
+    background-color: rgb(9, 184, 88);
+}
+
+.btn-regular:hover {
+    color: #fff;
+    background-color: rgb(38, 211, 127);
+}

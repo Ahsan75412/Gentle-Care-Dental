@@ -11,6 +11,7 @@ import ServiceDetail from './components/ServiceDetail/ServiceDetail';
 import Footer from './components/Sheared-Component/Footer/Footer';
 
 import Header from './components/Sheared-Component/Header/Header';
+import NotFound from './components/Sheared-Component/NotFound/NotFound';
 
 function App() {
   return (
@@ -31,6 +32,8 @@ function App() {
           </RequireAuth>
         }></Route>
         <Route path="/blogs" element={<Blogs></Blogs>}></Route>
+        <Route path="*" element={<NotFound></NotFound>}></Route>
+
        
       </Routes>
 
