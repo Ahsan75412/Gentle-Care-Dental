@@ -16,7 +16,7 @@ const Blogs = () => {
                         Simply put, authentication is the process of verifying who someone is, whereas authorization is the process of verifying what specific applications, files, and data a user has access to.
                     </p>
 
-                    <a href="#" className="btn btn-success">Go somewhere</a>
+                    <a href="/home" className="btn btn-success">Home</a>
                 </div>
             </div>
 
@@ -35,7 +35,7 @@ const Blogs = () => {
 
                     </p>
 
-                    <a href="#" className="btn btn-success">Go somewhere</a>
+                    <a href="/home" className="btn btn-success">Home</a>
                 </div>
             </div>
 
@@ -67,7 +67,7 @@ const Blogs = () => {
 
                     </p>
 
-                    <a href="#" className="btn btn-success">Go somewhere</a>
+                    <a href="/home" className="btn btn-success">Home</a>
                 </div>
             </div>
 
