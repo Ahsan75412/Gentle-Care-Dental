@@ -45,31 +45,20 @@ const SocialLogin = () => {
                 <button
                     onClick={() => signInWithGoogle()}
 
-                    className='btn btn-info w-50 d-block mx-auto my-2'>
+                    className='btn btn-success w-50 d-block mx-auto my-2'>
                     {/* <img style={{ width: '30px' }} src={google} alt="" /> */}
-                    <FontAwesomeIcon style={{ width: '30px' }} icon="fa-brands fa-google" />
+                    <i class="fa-brands fa-google"></i>
                     <span className='px-2'> Google Sign In</span>
                 </button>
             </div>
-            
-
-            <div>
-                <button 
-               
-                
-                className='btn btn-info w-50 d-block mx-auto my-2'>
-                    {/* <img style={{ width: '30px' }} src={facebook} alt="" /> */}
-                    <FontAwesomeIcon style={{ width: '30px' }} icon="fa-brands fa-facebook-square" />
-                    <span className='px-2'> Facebook Sign In</span>
-                </button>
-            </div>
+        
           
             
             <div>
                 <button 
                  onClick={() => signInWithGithub()}
-                className='btn btn-info w-50 d-block mx-auto my-2'>
-                    {/* <img style={{ width: '30px' }} src={github} alt="" /> */}
+                className='btn btn-success w-50 d-block mx-auto my-2'>
+                    <i class="fa-brands fa-github"></i>
                     <FontAwesomeIcon style={{ width: '30px' }} icon="fa-brands fa-github" />
                     <span className='px-2'> Github Sign In</span>
                 </button>

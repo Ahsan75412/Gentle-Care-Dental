@@ -4,7 +4,7 @@ import './Blogs.css';
 const Blogs = () => {
     return (
         <div>
-            <div class="card mt-5" id='blogs'>
+            <div class="card card-style mt-5" id='blogs'>
     
                 <div class="card-body">
                     <h5 class="card-title">
@@ -23,7 +23,7 @@ const Blogs = () => {
 
 
 
-            <div class="card mt-5" id='blogs'>
+            <div class="card mt-5 card-style" id='blogs'>
 
                 <div class="card-body">
                     <h5 class="card-title">
@@ -45,7 +45,7 @@ const Blogs = () => {
 
 
 
-            <div class="card mt-5" id='blogs'>
+            <div class="card mt-5 card-style" id='blogs'>
                
                 <div class="card-body">
                     <h5 class="card-title">
